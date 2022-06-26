@@ -1,0 +1,6 @@
+Steps
+1. Open https://polygonscan.com
+2. Open and Drag .sol file https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.15+commit.e14f2714.js
+4. Open Metamaks and switch to Matic Network
+3. See setup on https://youtu.be/Qrlp7GG_gEw for all fields to be accurately adjusted
+5. Delect Deploy
